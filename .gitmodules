@@ -1,0 +1,15 @@
+[submodule "INFO135"]
+	path = INFO135
+	url = git@github.com:VincentKleis/INFO135.git
+[submodule "INFO180"]
+	path = INFO180
+	url = git@github.com:VincentKleis/INFO180
+[submodule "INFO212"]
+	path = INFO212
+	url = git@github.com:VincentKleis/INFO212
+[submodule "INFO216"]
+	path = INFO216
+	url = git@github.com:VincentKleis/INFO216
+[submodule "INFO284-groupproj"]
+	path = INFO284-groupproj
+	url = git@github.com:VincentKleis/INFO284-groupproj
